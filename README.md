@@ -1,3 +1,4 @@
+python==3.7 pytorch==1.6 torchvision==0.7.0
 这是电子工业出版社的《深度学习框架PyTorch：入门与实践》第九章的配套代码，利用PyTorch实现了CharRNN用以写唐诗。
 
 本次实验的数据来自于[chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)。但是作者已经进行处理成二进制文件`tang.npz`，可以直接使用。读者可以[点此](https://yun.sfo2.digitaloceanspaces.com/pytorch_book/pytorch_book/tang.npz)下载`tang.npz`
